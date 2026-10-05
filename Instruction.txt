@@ -1,0 +1,7 @@
+Before adding the weight and height and nutrition detials
+
+I got the repsonse with the proper detials, and general 
+
+After the Adding the complete details like weight,height,activity type, 
+
+I got the complete detail repsonse
